@@ -1,8 +1,8 @@
-DevOps Engineer Assignment
+### DevOps Engineer Assignment
 
 This repository contains a complete DevOps implementation for deploying a Spring Boot application using Docker, Kubernetes, CI/CD pipelines, MySQL, and Apache Kafka with multi-environment (Dev & QA) setup.
 
-🚀 Technologies Used
+### Technologies Used
 
 Java 17 / Spring Boot
 Docker & Docker Compose
