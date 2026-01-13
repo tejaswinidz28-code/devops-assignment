@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/")
     public String home() {
-        return "DevOps Assignment Deployed Successfully 🚀";
+        return "DevOps Assignment Deployed Successfully";
     }
 }
